@@ -4,6 +4,7 @@
 
 Our project github repository: https://github.com/dobulare/dstar
 
+Please find the final report and team effectiveness report under the https://github.com/dobulare/dstar/report
 dstar/dstarlite has project code files
 dstar/report has the detailed report of all the search algorithms used in the project.
 
