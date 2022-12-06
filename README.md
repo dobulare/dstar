@@ -25,14 +25,20 @@ $ python pacman.py -l mediumMaze -p SearchAgent -a fn=dstar,heuristic=manhattanH
 ```
 
 To run the code in different layouts we can replace mediumMaze with any of the following 
+
 layout names =  custom2022 | custom3035 |  bigMaze | tinyMaze | mediumMaze | smallMaze
 
 To use different search functions you can replace the dstar to any of the following function names:
+
 fn = dstar | rastar | rbfs | rdfs | rucs
 
 
 rastar = replanningAStar
+
 rbfs = replanningBFS
+
 rdfs = replanningDFS
+
 rucs = replanningUCS
+
 dstar = dStarLiteSearch
